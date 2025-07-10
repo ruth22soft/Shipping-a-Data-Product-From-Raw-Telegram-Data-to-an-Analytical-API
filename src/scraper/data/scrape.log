@@ -1,0 +1,421 @@
+2025-07-10 16:44:52,025 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-07-10 16:44:53,933 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-07-10 16:45:36,951 - INFO - Phone migrated to 4
+2025-07-10 16:45:37,183 - INFO - Reconnecting to new data center 4
+2025-07-10 16:45:37,419 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-07-10 16:45:37,419 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-07-10 16:45:37,420 - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-07-10 16:45:39,258 - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-07-10 16:46:35,757 - INFO - Telegram client started
+2025-07-10 16:46:35,757 - INFO - Scraping channel: CheMed123
+2025-07-10 16:46:36,628 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:46:37,801 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_97.jpg
+2025-07-10 16:46:37,802 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:46:39,653 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_96.jpg
+2025-07-10 16:46:39,655 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:46:40,855 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_95.jpg
+2025-07-10 16:46:40,857 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:46:42,601 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_94.jpg
+2025-07-10 16:46:42,604 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:46:44,846 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_93.jpg
+2025-07-10 16:46:44,847 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:46:47,148 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_92.jpg
+2025-07-10 16:46:47,151 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:46:48,631 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_91.jpg
+2025-07-10 16:46:48,633 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:46:51,127 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_90.jpg
+2025-07-10 16:46:51,129 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:46:53,202 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_88.jpg
+2025-07-10 16:46:53,204 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:46:56,152 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_87.jpg
+2025-07-10 16:46:56,155 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:46:58,064 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_86.jpg
+2025-07-10 16:46:58,066 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:46:59,144 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_85.jpg
+2025-07-10 16:46:59,146 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:00,461 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_82.jpg
+2025-07-10 16:47:00,463 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:02,482 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_81.jpg
+2025-07-10 16:47:02,484 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:03,733 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_80.jpg
+2025-07-10 16:47:03,736 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:06,197 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_79.jpg
+2025-07-10 16:47:06,199 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:08,375 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_78.jpg
+2025-07-10 16:47:08,377 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:10,096 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_77.jpg
+2025-07-10 16:47:10,098 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:12,430 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_76.jpg
+2025-07-10 16:47:12,433 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:14,637 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_75.jpg
+2025-07-10 16:47:14,639 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:15,808 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_74.jpg
+2025-07-10 16:47:15,809 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:18,071 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_71.jpg
+2025-07-10 16:47:18,073 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:19,998 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_70.jpg
+2025-07-10 16:47:20,001 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:21,925 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_67.jpg
+2025-07-10 16:47:21,928 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:24,126 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_64.jpg
+2025-07-10 16:47:24,127 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:25,199 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_60.jpg
+2025-07-10 16:47:25,201 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:26,679 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_59.jpg
+2025-07-10 16:47:26,681 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:27,338 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_58.jpg
+2025-07-10 16:47:27,340 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:28,212 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_57.jpg
+2025-07-10 16:47:28,214 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:30,120 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_56.jpg
+2025-07-10 16:47:30,122 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:31,951 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_55.jpg
+2025-07-10 16:47:31,953 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:33,307 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_53.jpg
+2025-07-10 16:47:33,309 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:34,996 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_52.jpg
+2025-07-10 16:47:34,999 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:36,045 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_50.jpg
+2025-07-10 16:47:36,047 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:37,165 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_49.jpg
+2025-07-10 16:47:37,167 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:40,046 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_48.jpg
+2025-07-10 16:47:40,048 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:41,382 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_46.jpg
+2025-07-10 16:47:41,384 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:42,968 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_45.jpg
+2025-07-10 16:47:42,971 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:44,009 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_44.jpg
+2025-07-10 16:47:44,011 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:45,715 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_43.jpg
+2025-07-10 16:47:45,717 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:47,931 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_41.jpg
+2025-07-10 16:47:47,934 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:49,094 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_40.jpg
+2025-07-10 16:47:49,096 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:50,518 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_39.jpg
+2025-07-10 16:47:50,520 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:51,660 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_38.jpg
+2025-07-10 16:47:51,662 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:52,744 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_34.jpg
+2025-07-10 16:47:52,746 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:55,020 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_33.jpg
+2025-07-10 16:47:55,022 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:56,592 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_32.jpg
+2025-07-10 16:47:56,595 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:58,026 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_31.jpg
+2025-07-10 16:47:58,028 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:47:58,960 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_30.jpg
+2025-07-10 16:47:58,961 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:00,361 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_29.jpg
+2025-07-10 16:48:00,363 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:01,145 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_27.jpg
+2025-07-10 16:48:01,147 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:02,776 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_26.jpg
+2025-07-10 16:48:02,777 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:03,461 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_25.jpg
+2025-07-10 16:48:03,463 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:04,195 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_23.jpg
+2025-07-10 16:48:04,197 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:05,061 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_22.jpg
+2025-07-10 16:48:05,063 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:06,184 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_21.jpg
+2025-07-10 16:48:06,187 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:09,908 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_20.jpg
+2025-07-10 16:48:09,910 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:12,732 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_19.jpg
+2025-07-10 16:48:12,735 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:14,085 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_18.jpg
+2025-07-10 16:48:14,087 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:15,435 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_17.jpg
+2025-07-10 16:48:15,436 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:16,548 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_15.jpg
+2025-07-10 16:48:16,549 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:18,286 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_14.jpg
+2025-07-10 16:48:18,287 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:20,693 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_13.jpg
+2025-07-10 16:48:20,694 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:22,259 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_11.jpg
+2025-07-10 16:48:22,260 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:23,997 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_10.jpg
+2025-07-10 16:48:23,999 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:24,689 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_9.jpg
+2025-07-10 16:48:24,691 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:25,076 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_4.jpg
+2025-07-10 16:48:25,078 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:25,503 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_3.jpg
+2025-07-10 16:48:25,505 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:26,074 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\CheMed123\image_2.jpg
+2025-07-10 16:48:26,079 - INFO - Saved 76 messages to E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_messages\2025-07-10\CheMed123\messages.json
+2025-07-10 16:48:26,079 - INFO - Scraping channel: lobelia4cosmetics
+2025-07-10 16:48:26,800 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:27,042 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18513.jpg
+2025-07-10 16:48:27,044 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:27,319 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18512.jpg
+2025-07-10 16:48:27,321 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:27,699 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18511.jpg
+2025-07-10 16:48:27,700 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:28,173 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18510.jpg
+2025-07-10 16:48:28,175 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:28,865 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18509.jpg
+2025-07-10 16:48:28,908 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:29,741 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18508.jpg
+2025-07-10 16:48:29,743 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:29,985 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18507.jpg
+2025-07-10 16:48:29,987 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:31,108 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18506.jpg
+2025-07-10 16:48:31,110 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:31,975 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18505.jpg
+2025-07-10 16:48:31,977 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:32,904 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18504.jpg
+2025-07-10 16:48:32,906 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:34,424 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18503.jpg
+2025-07-10 16:48:34,426 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:35,661 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18502.jpg
+2025-07-10 16:48:35,664 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:36,509 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18501.jpg
+2025-07-10 16:48:36,511 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:37,180 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18500.jpg
+2025-07-10 16:48:37,182 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:38,051 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18499.jpg
+2025-07-10 16:48:38,052 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:38,789 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18498.jpg
+2025-07-10 16:48:38,792 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:39,046 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18497.jpg
+2025-07-10 16:48:39,048 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:39,717 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18496.jpg
+2025-07-10 16:48:39,718 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:40,710 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18495.jpg
+2025-07-10 16:48:40,713 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:41,223 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18494.jpg
+2025-07-10 16:48:41,226 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:42,182 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18493.jpg
+2025-07-10 16:48:42,184 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:42,432 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18492.jpg
+2025-07-10 16:48:42,435 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:44,029 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18491.jpg
+2025-07-10 16:48:44,034 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:46,761 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18490.jpg
+2025-07-10 16:48:46,763 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:47,055 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18489.jpg
+2025-07-10 16:48:47,056 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:48,133 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18488.jpg
+2025-07-10 16:48:48,136 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:48,527 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18487.jpg
+2025-07-10 16:48:48,529 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:49,509 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18486.jpg
+2025-07-10 16:48:49,512 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:50,537 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18485.jpg
+2025-07-10 16:48:50,539 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:51,034 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18484.jpg
+2025-07-10 16:48:51,036 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:53,770 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18483.jpg
+2025-07-10 16:48:53,774 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:54,206 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18482.jpg
+2025-07-10 16:48:54,208 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:55,526 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18481.jpg
+2025-07-10 16:48:55,528 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:57,359 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18480.jpg
+2025-07-10 16:48:57,361 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:57,614 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18479.jpg
+2025-07-10 16:48:57,616 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:58,633 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18478.jpg
+2025-07-10 16:48:58,635 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:48:59,574 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18477.jpg
+2025-07-10 16:48:59,576 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:01,688 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18476.jpg
+2025-07-10 16:49:01,691 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:02,757 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18475.jpg
+2025-07-10 16:49:02,759 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:03,967 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18474.jpg
+2025-07-10 16:49:03,970 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:04,413 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18473.jpg
+2025-07-10 16:49:04,416 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:04,978 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18472.jpg
+2025-07-10 16:49:04,980 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:06,535 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18471.jpg
+2025-07-10 16:49:06,537 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:07,214 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18470.jpg
+2025-07-10 16:49:07,216 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:08,016 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18469.jpg
+2025-07-10 16:49:08,017 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:08,728 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18468.jpg
+2025-07-10 16:49:08,730 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:09,723 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18467.jpg
+2025-07-10 16:49:09,726 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:10,109 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18466.jpg
+2025-07-10 16:49:10,112 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:10,373 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18465.jpg
+2025-07-10 16:49:10,375 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:10,976 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18464.jpg
+2025-07-10 16:49:10,979 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:11,735 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18463.jpg
+2025-07-10 16:49:11,738 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:12,488 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18462.jpg
+2025-07-10 16:49:12,491 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:13,218 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18461.jpg
+2025-07-10 16:49:13,221 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:14,291 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18460.jpg
+2025-07-10 16:49:14,294 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:15,770 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18459.jpg
+2025-07-10 16:49:15,772 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:16,817 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18458.jpg
+2025-07-10 16:49:16,820 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:17,687 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18457.jpg
+2025-07-10 16:49:17,690 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:18,732 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18456.jpg
+2025-07-10 16:49:18,734 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:19,573 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18455.jpg
+2025-07-10 16:49:19,576 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:20,878 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18454.jpg
+2025-07-10 16:49:20,881 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:21,108 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18453.jpg
+2025-07-10 16:49:21,110 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:21,371 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18452.jpg
+2025-07-10 16:49:21,373 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:21,832 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18451.jpg
+2025-07-10 16:49:21,835 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:22,140 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18450.jpg
+2025-07-10 16:49:22,142 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:22,880 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18449.jpg
+2025-07-10 16:49:22,883 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:23,681 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18448.jpg
+2025-07-10 16:49:23,683 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:24,073 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18447.jpg
+2025-07-10 16:49:24,076 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:24,607 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18446.jpg
+2025-07-10 16:49:24,609 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:25,311 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18445.jpg
+2025-07-10 16:49:25,313 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:26,000 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18444.jpg
+2025-07-10 16:49:26,002 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:27,062 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18443.jpg
+2025-07-10 16:49:27,104 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:27,809 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18442.jpg
+2025-07-10 16:49:27,813 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:30,141 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18441.jpg
+2025-07-10 16:49:30,143 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:30,974 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18440.jpg
+2025-07-10 16:49:30,977 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:31,875 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18439.jpg
+2025-07-10 16:49:31,877 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:32,591 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18438.jpg
+2025-07-10 16:49:32,593 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:33,178 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18437.jpg
+2025-07-10 16:49:33,182 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:33,689 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18436.jpg
+2025-07-10 16:49:33,692 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:34,114 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18435.jpg
+2025-07-10 16:49:34,116 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:36,023 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18434.jpg
+2025-07-10 16:49:36,025 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:36,611 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18433.jpg
+2025-07-10 16:49:36,613 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:37,774 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18432.jpg
+2025-07-10 16:49:37,777 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:38,114 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18431.jpg
+2025-07-10 16:49:38,117 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:38,554 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18430.jpg
+2025-07-10 16:49:38,556 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:39,604 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18429.jpg
+2025-07-10 16:49:39,607 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:40,405 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18428.jpg
+2025-07-10 16:49:40,408 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:41,790 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18427.jpg
+2025-07-10 16:49:41,792 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:43,219 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18426.jpg
+2025-07-10 16:49:43,222 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:43,639 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18425.jpg
+2025-07-10 16:49:43,641 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:44,597 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18424.jpg
+2025-07-10 16:49:44,599 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:45,013 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18423.jpg
+2025-07-10 16:49:45,015 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:45,319 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18422.jpg
+2025-07-10 16:49:45,321 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:45,598 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18421.jpg
+2025-07-10 16:49:45,600 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:46,641 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18420.jpg
+2025-07-10 16:49:46,643 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:47,063 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18419.jpg
+2025-07-10 16:49:47,065 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:47,565 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18418.jpg
+2025-07-10 16:49:47,567 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:48,732 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18417.jpg
+2025-07-10 16:49:48,734 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:49,275 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18416.jpg
+2025-07-10 16:49:49,277 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:51,563 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18415.jpg
+2025-07-10 16:49:51,565 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:52,225 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\lobelia4cosmetics\image_18414.jpg
+2025-07-10 16:49:52,231 - INFO - Saved 100 messages to E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_messages\2025-07-10\lobelia4cosmetics\messages.json
+2025-07-10 16:49:52,231 - INFO - Scraping channel: tikvahpharma
+2025-07-10 16:49:54,227 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:55,044 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172129.jpg
+2025-07-10 16:49:55,047 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:57,235 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172123.jpg
+2025-07-10 16:49:57,237 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:58,308 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172122.jpg
+2025-07-10 16:49:58,311 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:58,797 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172114.jpg
+2025-07-10 16:49:58,800 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:59,366 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172113.jpg
+2025-07-10 16:49:59,408 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:49:59,669 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172112.jpg
+2025-07-10 16:49:59,671 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:00,112 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172111.jpg
+2025-07-10 16:50:00,115 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:00,625 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172109.jpg
+2025-07-10 16:50:00,628 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:01,071 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172107.jpg
+2025-07-10 16:50:01,074 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:01,289 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172103.jpg
+2025-07-10 16:50:01,291 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:02,568 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172100.jpg
+2025-07-10 16:50:02,571 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:03,705 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172099.jpg
+2025-07-10 16:50:03,709 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:04,150 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172098.jpg
+2025-07-10 16:50:04,153 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:05,913 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172095.jpg
+2025-07-10 16:50:05,915 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:06,874 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172093.jpg
+2025-07-10 16:50:06,877 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:08,620 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172092.jpg
+2025-07-10 16:50:08,624 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:09,212 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172085.jpg
+2025-07-10 16:50:09,215 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:09,786 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172084.jpg
+2025-07-10 16:50:09,790 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:10,234 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172078.jpg
+2025-07-10 16:50:10,236 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:11,847 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172077.jpg
+2025-07-10 16:50:11,850 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:13,472 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172071.jpg
+2025-07-10 16:50:13,475 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:13,733 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172067.jpg
+2025-07-10 16:50:13,736 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:14,321 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172064.jpg
+2025-07-10 16:50:14,324 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:16,133 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172061.jpg
+2025-07-10 16:50:16,135 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:16,957 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172059.jpg
+2025-07-10 16:50:16,960 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:18,522 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172057.jpg
+2025-07-10 16:50:18,526 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:20,961 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172044.jpg
+2025-07-10 16:50:20,963 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:21,363 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172038.jpg
+2025-07-10 16:50:21,366 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:22,443 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172032.jpg
+2025-07-10 16:50:22,446 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:23,209 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172029.jpg
+2025-07-10 16:50:23,211 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:25,871 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172028.jpg
+2025-07-10 16:50:25,876 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:26,502 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172021.jpg
+2025-07-10 16:50:26,504 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-07-10 16:50:28,408 - INFO - Downloaded image: E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_images\2025-07-10\tikvahpharma\image_172020.jpg
+2025-07-10 16:50:28,413 - INFO - Saved 100 messages to E:\week_7\Shipping-a-Data-Product-From-Raw-Telegram-Data-to-an-Analytical-API\data\raw\telegram_messages\2025-07-10\tikvahpharma\messages.json
+2025-07-10 16:50:28,414 - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-07-10 16:50:28,414 - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
